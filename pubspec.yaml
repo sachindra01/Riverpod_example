@@ -31,7 +31,7 @@ dependencies:
   hooks_riverpod: ^0.13.1+1
   flutter_hooks: ^0.16.0
   dartz: ^0.10.0-nullsafety.1
-  dio: 4.0.0-beta7
+  dio: ^5.0.3
   mockito: ^5.0.14
   shimmer: ^2.0.0
 
